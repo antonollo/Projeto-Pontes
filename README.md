@@ -8,3 +8,4 @@ O seguinte repositório tem por objetivo divulgar um pouco do processo realizado
 - João Guilherme Lins Garcia (discente do curso de Engenharia de Produção na Universidade do Estado do Amazonas);
 - Marcus Vinicius Didier de Oliveira (discente do curso de Engenharia de Produção na Universidade do Estado do Amazonas);
 - Thiago Cordeiro de Melo (discente do curso de Engenharia de Computação na Universidade do Estado do Amazonas).
+
